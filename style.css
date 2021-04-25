@@ -1,0 +1,54 @@
+
+
+h1{
+  color:green;
+  font-size: 40px;
+  padding-top: 10px;
+  text-align:center;
+}
+
+h2{
+  color:brown;
+  font-size: 25px;
+}
+
+li{
+  color:navy;
+  font-size:20px;
+}
+
+p{
+  font-size:18px;
+}
+
+span{
+  color:rgb(206, 136, 7);
+}
+
+.barvaPozadi1{
+  background-color: lightblue;
+}
+
+.barvaPozadi2{
+  background-color:lightpink;
+}
+
+.barvaPozadi3{
+  background-color: lightyellow;
+}
+
+.barvaPozadi4{
+  background-color: lightgreen;
+}
+
+.barvaPozadi5{
+  background-color: LightSkyBlue;
+}
+
+.barvaPozadi6{
+  background-color: Plum;
+}
+
+.velikostTextu{
+  font-size:18;
+}
